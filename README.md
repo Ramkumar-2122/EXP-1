@@ -1,10 +1,11 @@
+
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
-APPARATUS REQUIRED:
+APPARATUS REQUIRED: 
 S.No.	Components	Range	Quantity
 1	Resistor	1kΩ	3
 2	Voltmeter (DC)	0-30V	3
@@ -44,32 +45,23 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+<img width="1107" height="713" alt="Screenshot 2025-09-14 215238" src="https://github.com/user-attachments/assets/8e29a38a-a5ef-4a71-8c99-734050da5a06" />
+
 
 
 b.  KCL:
- 
+<img width="1108" height="712" alt="Screenshot 2025-09-14 215220" src="https://github.com/user-attachments/assets/fcac3d78-53c7-4eed-809d-e406a0cf6755" />
 
-Calculation:
+## KCL AND KVL:
+![WhatsApp Image 2025-09-14 at 21 57 31_907a39da](https://github.com/user-attachments/assets/99c335d6-383d-4fe3-bfa1-9ac0922a68f7)
 
-a.   KVL:
- 
+![WhatsApp Image 2025-09-14 at 21 57 39_9a6c118f](https://github.com/user-attachments/assets/967b7d10-2365-48da-9606-368d8ddbad8d)
 
+![WhatsApp Image 2025-09-14 at 21 57 49_a77bddce](https://github.com/user-attachments/assets/297968ad-f708-4ef6-95d9-d97bf17497ed)
 
-b.  KCL:
+![WhatsApp Image 2025-09-14 at 21 57 51_3b604fc2](https://github.com/user-attachments/assets/85838601-51be-492e-b12d-e0c173606274)
 
-
-
-
-Tabulation:
-
-a.   KVL:
- 
-
-
-b.  KCL:
-
-
+![WhatsApp Image 2025-09-14 at 21 57 52_adff0b33](https://github.com/user-attachments/assets/94b0063d-9781-463c-a423-3dcca05a2710)
 
 RESULT:
 
